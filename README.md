@@ -6,4 +6,4 @@ My own NeoVim config (incompatible with the original vim). Recommended to use wi
 - golang and gopls
 - git
 - packer.nvim
-- (nerdfonts)[https://nerdfonts.com]
+- [nerdfonts](https://nerdfonts.com)
