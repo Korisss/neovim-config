@@ -3,7 +3,7 @@ My own NeoVim config (incompatible with the original vim). Recommended to use wi
 
 ## Deps
 - clang and clangd
-- golang and gopls
-- git
-- packer.nvim
+- [golang](https://go.dev/) and [gopls](https://github.com/golang/tools/blob/master/gopls/README.md)
+- [git](https://git-scm.com/)
+- [packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [nerdfonts](https://nerdfonts.com)
