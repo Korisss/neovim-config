@@ -268,3 +268,8 @@ keyset("n", "<space>k", ":<C-u>CocPrev<cr>", opts)
 -- Resume latest coc list.
 keyset("n", "<space>p", ":<C-u>CocListResume<cr>", opts)
 
+vim.diagnostic.config({
+  virtual_text = true,
+  virtualTextCurrentLineOnly = false
+})
+
