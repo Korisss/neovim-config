@@ -7,3 +7,9 @@ My own NeoVim config (incompatible with the original vim). Recommended to use wi
 - [git](https://git-scm.com/)
 - [packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [nerdfonts](https://nerdfonts.com)
+
+## Commands
+
+’’’
+:CocInstall coc-json coc-tsserver coc-css coc-html coc-markdownlint
+’’’
