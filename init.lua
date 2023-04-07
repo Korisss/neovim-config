@@ -1,7 +1,7 @@
 local core_conf_files = {
-  'base.lua',
   'packer.lua',
-  'coc.lua'
+  'coc.lua',
+  'base.lua'
 }
 
 for _, name in ipairs(core_conf_files) do
