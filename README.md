@@ -14,6 +14,7 @@ My own NeoVim config (incompatible with the original vim)
   git clone https://github.com/Korisss/neovim-config ~/.config/nvim
   ```
 - you also need to install dependencies
+  - golang, git, node js, clang and clangd will be in your distro repositories
   - gopls
     ```
     go install golang.org/x/tools/gopls@latest
@@ -22,8 +23,6 @@ My own NeoVim config (incompatible with the original vim)
     ```
     export PATH="$HOME/go/bin/:$PATH"
     ```
-
-  - golang, git, node js, clang and clangd will be in your distro repositories
   - additional coc language servers
     ```
     :CocInstall coc-json coc-tsserver coc-css coc-html coc-markdownlint
