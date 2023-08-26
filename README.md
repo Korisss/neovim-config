@@ -10,6 +10,6 @@ My own NeoVim config (incompatible with the original vim). Recommended to use wi
 
 ## Commands
 
-’’’
+```
 :CocInstall coc-json coc-tsserver coc-css coc-html coc-markdownlint
-’’’
+```
